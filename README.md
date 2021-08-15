@@ -1,6 +1,6 @@
 # Knowledge-Hub
 
-To run this website, clone this repository and open index.html file, If you need the login page working then clone the repo in C/Xampp/htdocs and create a root user in MySQL and a table(users) containing username and password as columns and run in the localhost. 
+To run this website, clone this repository and open index.html file, If you need the login page working then clone the repo in C/Xampp/htdocs and create a root user with login as database in MySQL and a table(users) containing username and password as columns and run in the localhost. 
  
 ## Inspiration
 Nowadays the resources are very huge know that we could not be able to fetch what is better for us and getting stuck at tutorials without the proper guidance of an experience one and thus procrastinating the tasks. 
